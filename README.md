@@ -5,7 +5,19 @@ With 24 different fuel options and the ability to adjust the stoichiometric rati
 Not only does this software give you detailed insights into your engine's performance, but it also displays a chemical formula for balanced combustion and projections for NOX emissions.
 
 _________________________________________________________________________________________
-Run 
+There are a few software options to run .ipynb files, including:
+Jupyter Notebook - This is the most popular option for running .ipynb files. Jupyter Notebook is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and narrative text.
+
+JupyterLab - This is the next-generation user interface for Jupyter Notebook. It provides a more modern and flexible interface for working with .ipynb files.
+
+Google Colaboratory (Colab) - This is a cloud-based Jupyter Notebook environment provided by Google. It allows you to run your .ipynb files on Google's servers and provides free access to GPUs and TPUs for machine learning.
+
+Visual Studio Code - This is a popular text editor that can also be used to run .ipynb files. You can use the Python extension for Visual Studio Code to run .ipynb files and view the output directly in the editor.
+
+PyCharm - This is a popular integrated development environment (IDE) for Python. PyCharm allows you to run .ipynb files and provides code completion, debugging, and other features to help you develop your code.
+
+_________________________________________________________________________________________
+Instructions for Google Colab:
 Open your web browser and navigate to Google Colab (colab.research.google.com).
 
 Click on the "New Notebook" button on the homepage to create a new notebook.
